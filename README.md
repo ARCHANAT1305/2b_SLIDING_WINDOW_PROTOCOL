@@ -29,6 +29,8 @@ while True:
             print(ack)
             i+=s
 ```
+
+
 ### SERVER:
 ```
 import socket
