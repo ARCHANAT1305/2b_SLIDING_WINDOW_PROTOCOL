@@ -1,5 +1,8 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+### REGISTER NUMBER:212223240013  
+### NAME: ARCHANA T  
+## AIM:
+To write a python program for sliding window protocol.  
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
